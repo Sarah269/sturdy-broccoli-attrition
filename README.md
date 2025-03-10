@@ -1,12 +1,21 @@
 # IBM HR Machine Learning App
 
+
 ## Project
 Create an user interface to allow the enduser to enter parameters and receive a prediction on whether an employee is likely to leave the organization.
 
+## Machine Learning App
+<p> There will be a delay while the app wakes up.</p>
+
+[IBM HR ML App](https://cnk6qkvewrx6lchhmdkgah.streamlit.app/)
+
 ## Machine Learning Project
+[IBM HR Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main/IBM_HR_Attrition)
 
+## Tools
+- Python, Scikit-learn, Streamlit
 
-## User Story
+## User Stories
 <pre>
 User Story:  Attrition ML App Prediction
 As an analyst, I want to input parameters related to an employee into an application, 
