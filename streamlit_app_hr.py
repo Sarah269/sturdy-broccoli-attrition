@@ -38,19 +38,19 @@ col4,col5, col6, col7 =  st.columns((4,4,4,4))
 
 with col4:
    tile = st.container(height=120)
-   tile.metric(label=" :runner: Corporate", value = "13.9%") 
+   tile.metric(label="Corporate", value = "13.9%") 
 
 with col5:
    tile = st.container(height=120)
-   tile.metric(label=" :runner: Men", value = "17%") 
+   tile.metric(label="Men", value = "17%") 
 
 with col6:
    tile = st.container(height=120)
-   tile.metric(label=" :runner: Women", value = "14.8%") 
+   tile.metric(label="Women", value = "14.8%") 
 
 with col7:
    tile = st.container(height=120)
-   tile.metric(label=" :runner: Single", value = "25.5%") 
+   tile.metric(label="Single", value = "25.5%") 
 
 col1, col2, col3 = st.columns((5,5,5))
 with col1:
